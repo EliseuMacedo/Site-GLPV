@@ -198,8 +198,8 @@ hr {
    ========================================================================== */
 
 #headerwrap {
-  /*background: url(../img/header-bg.jpg) no-repeat center top;*/
-  background-color:#DDA0DD;
+  background: url(../img/match.png) no-repeat center top;*/
+  
   margin-top: -10px;
   padding-top: 20px;
   text-align: center;
@@ -207,6 +207,7 @@ hr {
   background-position: center center;
   min-height: 500px;
   width: 100%;
+  /*
   -webkit-background-size: 100%;
   -moz-background-size: 100%;
   -o-background-size: 100%;
@@ -214,7 +215,7 @@ hr {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
-  background-size: cover;
+  background-size: cover;*/
 }
 
 #headerwrap h1 {
